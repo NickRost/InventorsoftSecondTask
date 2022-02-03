@@ -13,8 +13,6 @@ namespace Domain.Models
 
         public virtual City City { get; set; }
 
-        public virtual Office Office { get; set; }
-
         public ICollection<Employer> Employers { get; set; }
     }
 }

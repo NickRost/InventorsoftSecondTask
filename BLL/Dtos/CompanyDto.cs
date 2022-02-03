@@ -4,7 +4,7 @@ using System.Text;
 
 namespace BLL.Dtos
 {
-    class CompanyDto
+    public class CompanyDto
     {
         public Guid Id { get; set; }
 

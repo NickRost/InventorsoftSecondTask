@@ -16,10 +16,10 @@ namespace Domain
         public DateTime BirstDate { get; set; }
 
         public Guid? CompanyId { get; set; }
-        public Company Company { get; set; }
+        public virtual Company Company { get; set; }
 
         public int? TeamId { get; set; }
-        public Team Team { get; set; }
+        public virtual Team Team { get; set; }
 
         public ICollection<EmployerSkill> EmployerSkills { get; set; }
         public ICollection<Task> Tasks { get; set; }

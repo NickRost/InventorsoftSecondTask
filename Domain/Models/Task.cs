@@ -9,12 +9,12 @@ namespace Domain.Models
         public Guid Id { get; set; }
 
 
-        public int ProjectId { get; set; }
-        public Project Project { get; set; }
+        public Guid? ProjectId { get; set; }
+        public virtual Project Project { get; set; }
 
 
-        public int? PerformerId { get; set; }
-        public Employer Performer { get; set; }
+        public Guid? PerformerId { get; set; }
+        public virtual Employer Performer { get; set; }
 
         public string Name { get; set; }
 

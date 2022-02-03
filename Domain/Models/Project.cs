@@ -9,11 +9,11 @@ namespace Domain.Models
         public Guid Id { get; set; }
 
         
-        public Guid AuthorId { get; set; }
-        public Employer Author { get; set; }
+        public Guid? AuthorId { get; set; }
+        public virtual Employer Author { get; set; }
 
-        public Guid TeamId { get; set; }
-        public Team Team { get; set; }
+        public Guid? TeamId { get; set; }
+        public virtual Team Team { get; set; }
 
         public string Name { get; set; }
 
