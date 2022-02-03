@@ -10,3 +10,16 @@ C:\Users\HP\source\repos\EmployerStorage\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.
 C:\Users\HP\source\repos\EmployerStorage\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
 C:\Users\HP\source\repos\EmployerStorage\BLL\obj\Debug\netcoreapp3.1\BLL.dll
 C:\Users\HP\source\repos\EmployerStorage\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.AssemblyReference.cache
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\obj\Debug\netcoreapp3.1\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CopyComplete
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+D:\Inventorsoft\Second\InventorsoftSecondTask\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
