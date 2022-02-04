@@ -28,6 +28,11 @@ namespace Domain
             modelBuilder.Entity<Employer>()
                 .HasKey(x => x.Id);
 
+            modelBuilder.Entity<Team>()
+                .HasMany(x => x.Employers)
+                .WithOne(x => x.Team)
+                .HasForeignKey(x => x.TeamId);
+
             modelBuilder.Entity<Skill>()
                 .HasKey(x => x.Id);
 
@@ -40,6 +45,12 @@ namespace Domain
                 .HasMany(x => x.Companies)
                 .WithOne(x => x.City)
                 .HasForeignKey(x => x.CityId)
+                .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<Project>()
+                .HasMany(x => x.Tasks)
+                .WithOne(x => x.Project)
+                .HasForeignKey(x => x.ProjectId)
                 .OnDelete(DeleteBehavior.Cascade);
 
             modelBuilder.Entity<EmployerSkill>().HasKey(sc => new { sc.EmployerId, sc.SkillId });

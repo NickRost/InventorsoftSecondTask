@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UgMcQe6fWvHy5yAjqXo4a2HW1fiURPb7x3Yrd2TRfwXJdCRrDviTCtDwJx49/w97us073WkqCsGiJn8BlTiaCw==",
+  "dgSpecHash": "zi+u/ilH3vME44v+9zImDbSaOHnvg8QcxHpnBDK/lZWQIvxqRnz21W8Yn/xuzGAT0ZN0kIBGfTKQN9bmNwsMzQ==",
   "success": true,
   "projectFilePath": "D:\\Inventorsoft\\Second\\InventorsoftSecondTask\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\1nick\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
-    "C:\\Users\\1nick\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\1nick\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.data.sqlclient\\1.1.3\\microsoft.data.sqlclient.1.1.3.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.22\\microsoft.entityframeworkcore.3.1.22.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.22\\microsoft.entityframeworkcore.abstractions.3.1.22.nupkg.sha512",

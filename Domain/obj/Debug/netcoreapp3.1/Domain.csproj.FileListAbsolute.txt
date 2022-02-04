@@ -7,3 +7,16 @@ C:\Users\HP\source\repos\EmployerStorage\Domain\obj\Debug\netcoreapp3.1\Domain.A
 C:\Users\HP\source\repos\EmployerStorage\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
 C:\Users\HP\source\repos\EmployerStorage\Domain\obj\Debug\netcoreapp3.1\Domain.dll
 C:\Users\HP\source\repos\EmployerStorage\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache

@@ -12,6 +12,6 @@ namespace Domain.Models
 
         public Guid SkillId { get; set; }
 
-        public Skill Skill { get; set; }
+        public virtual Skill Skill { get; set; }
     }
 }

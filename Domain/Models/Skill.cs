@@ -9,6 +9,6 @@ namespace Domain.Models
 
         public string Name { get; set; }
 
-        public IList<EmployerSkill> EmployerSkills { get; set; }
+        public virtual IList<EmployerSkill> EmployerSkills { get; set; }
     }
 }

@@ -1,4 +1,5 @@
 using BLL.Classes;
+using BLL.Dtos;
 using BLL.Interfaces;
 using Domain;
 using Microsoft.AspNetCore.Builder;
@@ -30,6 +31,13 @@ namespace EmployerStorageAPI
             });
 
             services.AddTransient<IEmployerService, EmployerService>();
+            services.AddTransient<ICompanyService, CompanyService>();
+            services.AddTransient<IProjectService, ProjectService>();
+            services.AddTransient<ITaskService, TaskService>();
+
+            MapperConfiguration mapper = new MapperConfiguration();
+            services.AddSingleton(_ => mapper.Configure().CreateMapper());
+
             services.AddSwaggerGen();
         }
 
