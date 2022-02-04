@@ -18,11 +18,11 @@ namespace Domain
         public Guid? CompanyId { get; set; }
         public virtual Company Company { get; set; }
 
-        public int? TeamId { get; set; }
+        public Guid? TeamId { get; set; }
         public virtual Team Team { get; set; }
 
-        public ICollection<EmployerSkill> EmployerSkills { get; set; }
-        public ICollection<Task> Tasks { get; set; }
-        public ICollection<Project> Projects { get; set; }
+        public virtual ICollection<EmployerSkill> EmployerSkills { get; set; }
+        public virtual ICollection<Task> Tasks { get; set; }
+        public virtual ICollection<Project> Projects { get; set; }
     }
 }

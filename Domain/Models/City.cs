@@ -12,6 +12,6 @@ namespace Domain.Models
 
         public string PostalCode { get; set; }
 
-        public ICollection<Company> Companies { get; set; }
+        public virtual ICollection<Company> Companies { get; set; }
     }
 }

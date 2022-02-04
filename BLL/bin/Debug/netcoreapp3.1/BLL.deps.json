@@ -1028,6 +1028,7 @@
       },
       "Domain/1.0.0": {
         "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.22",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.22"
         },
         "runtime": {

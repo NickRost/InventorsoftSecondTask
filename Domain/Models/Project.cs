@@ -21,6 +21,6 @@ namespace Domain.Models
         public DateTime? Deadline { get; set; }
         public DateTime? CreatedAt { get; set; }
 
-        public ICollection<Task> Tasks { get; set; }
+        public virtual ICollection<Task> Tasks { get; set; }
     }
 }

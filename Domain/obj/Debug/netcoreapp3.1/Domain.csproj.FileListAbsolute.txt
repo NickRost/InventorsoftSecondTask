@@ -17,3 +17,6 @@ D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\obj\Debug\netcoreapp3.1\Dom
 D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
 D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\bin\Debug\netcoreapp3.1\Domain.dll
 D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.json
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\bin\Debug\netcoreapp3.1\Domain.runtimeconfig.dev.json
+D:\Inventorsoft\Second\InventorsoftSecondTask\Domain\obj\Debug\netcoreapp3.1\Domain.genruntimeconfig.cache

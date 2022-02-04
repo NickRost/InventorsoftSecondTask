@@ -12,6 +12,6 @@ namespace Domain.Models
         public string Name { get; set; }
         public DateTime? CreatedAt { get; set; }
 
-        public ICollection<Employer> Employers { get; set; }
+        public virtual ICollection<Employer> Employers { get; set; }
     }
 }

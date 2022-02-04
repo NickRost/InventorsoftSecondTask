@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "IZlxJsGEhXHOz/pvlBGNkEVDxY6o5a2Awqh4zNx0yWqtfvLmrTry1sge3T3Tv+S1sHi7/mL0UjVPKVSuE3FTyQ==",
+  "dgSpecHash": "meX2FUC7ZtbCTbQ3H/KJ7PhLn5ED3UHaYoyk7seybcUHEj/LLxATCcg8VqfcPQxv71Mei1Yg+A4krX6s8H8wLg==",
   "success": true,
   "projectFilePath": "D:\\Inventorsoft\\Second\\InventorsoftSecondTask\\EmployerStorageAPI\\EmployerStorageAPI.csproj",
   "expectedPackageFiles": [
@@ -13,6 +13,7 @@
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.22\\microsoft.entityframeworkcore.3.1.22.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.22\\microsoft.entityframeworkcore.abstractions.3.1.22.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.22\\microsoft.entityframeworkcore.analyzers.3.1.22.nupkg.sha512",
+    "C:\\Users\\1nick\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.22\\microsoft.entityframeworkcore.design.3.1.22.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.entityframeworkcore.proxies\\3.1.22\\microsoft.entityframeworkcore.proxies.3.1.22.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.22\\microsoft.entityframeworkcore.relational.3.1.22.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.22\\microsoft.entityframeworkcore.sqlserver.3.1.22.nupkg.sha512",
