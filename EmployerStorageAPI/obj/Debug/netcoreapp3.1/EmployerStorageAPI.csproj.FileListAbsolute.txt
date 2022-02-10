@@ -141,3 +141,4 @@ D:\Inventorsoft\Second\InventorsoftSecondTask\EmployerStorageAPI\obj\Debug\netco
 D:\Inventorsoft\Second\InventorsoftSecondTask\EmployerStorageAPI\obj\Debug\netcoreapp3.1\EmployerStorageAPI.pdb
 D:\Inventorsoft\Second\InventorsoftSecondTask\EmployerStorageAPI\obj\Debug\netcoreapp3.1\EmployerStorageAPI.genruntimeconfig.cache
 D:\Inventorsoft\Second\InventorsoftSecondTask\EmployerStorageAPI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Inventorsoft\Second\InventorsoftSecondTask\EmployerStorageAPI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

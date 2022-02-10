@@ -10,7 +10,7 @@ namespace BLL.Classes
 {
     public class BaseService<T>:IBaseService<T> where T: class
     {
-        private readonly EmployerContext context;
+        protected readonly EmployerContext context;
         public BaseService(EmployerContext context)
         {
             this.context = context;

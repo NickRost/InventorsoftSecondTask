@@ -20,6 +20,8 @@ namespace BLL.Dtos
                 cfg.CreateMap<Project, ProjectDto>().ReverseMap();
                 cfg.CreateMap<Team, TeamDto>().ReverseMap();
                 cfg.CreateMap<Task, TaskDto>().ReverseMap();
+                cfg.CreateMap<EmployerRegisterDto, Employer>().ReverseMap();
+
             });
             return config;
         }
