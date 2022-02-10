@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "meX2FUC7ZtbCTbQ3H/KJ7PhLn5ED3UHaYoyk7seybcUHEj/LLxATCcg8VqfcPQxv71Mei1Yg+A4krX6s8H8wLg==",
+  "dgSpecHash": "WEsNj9TFDW1BIif8vKjGponhQpACvVDUqWmuXVq3SaZ1Oaklr0NQsj5eHffCWwpHq7n3wuYc2ZwIwqM7oC9PGA==",
   "success": true,
   "projectFilePath": "D:\\Inventorsoft\\Second\\InventorsoftSecondTask\\EmployerStorageAPI\\EmployerStorageAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\1nick\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
+    "C:\\Users\\1nick\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.22\\microsoft.aspnetcore.authentication.jwtbearer.3.1.22.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
     "C:\\Users\\1nick\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -2,8 +2,11 @@
 using BLL.Dtos;
 using BLL.Interfaces;
 using Domain;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace EmployerStorageAPI.Controllers
 {
@@ -49,6 +52,18 @@ namespace EmployerStorageAPI.Controllers
             var result = this.employerService.Get(x => x.Id == mapped.Id);
 
             var mappedResult = mapper.Map<Employer, EmployerDto>(result);
+
+            return Ok(mappedResult);
+        }
+
+        [HttpGet("all")]
+        [Authorize(Roles = "User")]
+        public async Task<ActionResult<IEnumerable<EmployerDto>>> GetEmployers()
+        {
+
+            var result = await this.employerService.GetMany();
+
+            var mappedResult = mapper.Map<IEnumerable<EmployerDto>>(result);
 
             return Ok(mappedResult);
         }
